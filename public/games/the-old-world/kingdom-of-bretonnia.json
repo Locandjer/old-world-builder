@@ -2018,7 +2018,7 @@
           "name_fr": "Gardien du Graal (champion)",
           "points": 7,
           "magic": {
-            "maxPoints": 50,
+            "maxPoints": 39,
             "types": ["weapon", "armor", "talisman", "enchanted-item"]
           }
         },
